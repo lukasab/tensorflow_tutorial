@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasab/tensorflow_tutorial/master)
 # Tutorial TensorFlow
 
 clonar o repositório
